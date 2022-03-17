@@ -1,4 +1,5 @@
 publish: 
+	cat ~/steffi-token
 	git add .
 	git commit -m "automatic git update from Makefile"
 	git push
